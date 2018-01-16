@@ -1,0 +1,23 @@
+{
+  "name": "hello-frontend",
+  "version": "1.0.0",
+  "description": "A simple JavaScript app to represent the frontend of a multi-tier application. See {insert git repo} for a sample backend.",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "github:expressjs/express"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kchymet/hello-frontend.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Kchymet/hello-frontend/issues"
+  },
+  "homepage": "https://github.com/Kchymet/hello-frontend#readme"
+}
