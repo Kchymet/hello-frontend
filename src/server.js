@@ -6,7 +6,7 @@ var https = require('http');
 var port = config.port;
 
 if(!port){
-    port = 80;
+    port = 8080;
     console.warn('Port not defined - defaulting to ' + port);
 }
 
